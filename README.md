@@ -3,7 +3,7 @@
 <h3 align="center">I Try to be funny</h3>
 
 <h3 align="center">- Currently a Student, Learner</h3>
-<h3 align="center">- Lets meet at a game of CHEESS</h3>
+<h3 align="center">- Lets meet at a game of CHESS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunak101&label=Profile%20views&color=0e75b6&style=flat" alt="raunak101" /> </p>
 
