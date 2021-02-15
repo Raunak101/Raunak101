@@ -1,9 +1,9 @@
-![Raunak](https://i.imgur.com/5i0MOZL.png "Raunak101")
+<img height="160em" src="Raunak101\b08eba94-6c35-491a-aada-083a5309b5de_200x200.png" />
 
 ## About Me
 
 - A **Computer Engineer** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
-- **Binge-Watcher** by Night , **MERN & KOTLIN Developer** by day, _Indie Developer_ by night (well, sometimes :smile:) .
+- **Binge-Watcher** by Night , **MERN & KOTLIN Developer** by night (well, sometimes :smile:) .
 - Experimenting with the **Development-Zone** as well and currently working on some side-project.
 - Enjoys **LINUX**.
 - Have a keen interest in BlockChain & Chess.
