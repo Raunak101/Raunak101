@@ -5,7 +5,7 @@
 ## About Me
 
 - A **Computer Engineer** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
-- **Binge-Watcher** by Night , **MERN & KOTLIN Developer** by night (well, sometimes :smile:) .
+- **Binge-Watcher** by Day , **MERN & KOTLIN Developer** by night (well, sometimes :smile:) .
 - Experimenting with the **Development-Zone** as well and currently working on some side-project.
 - Enjoys **LINUX**.
 - Have a keen interest in BlockChain & Chess.
