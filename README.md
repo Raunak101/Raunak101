@@ -1,4 +1,6 @@
-<img height="200em" src="./b08eba94-6c35-491a-aada-083a5309b5de_200x200.png" />
+<p align="center">
+<img height="250em" src="./b08eba94-6c35-491a-aada-083a5309b5de_200x200.png" />
+</p>
 
 ## About Me
 
