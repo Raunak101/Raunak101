@@ -1,4 +1,4 @@
-<img height="160em" src="./b08eba94-6c35-491a-aada-083a5309b5de_200x200.png" />
+<img height="200em" src="./b08eba94-6c35-491a-aada-083a5309b5de_200x200.png" />
 
 ## About Me
 
